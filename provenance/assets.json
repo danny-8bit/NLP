@@ -1,0 +1,20 @@
+{
+  "model_revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+  "dataset_revision": "96943a16ea6a35129e253c659081cb59daf81b30",
+  "sizes": {
+    "train": 5749,
+    "validation": 1500,
+    "test": 1379
+  },
+  "sha256": {
+    "models/bert-base-uncased/tokenizer.json": "ce64fce797c24f68df90b40a3f74f579b336a493db14bd583fd520ea0d8c9a98",
+    "models/bert-base-uncased/vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3",
+    "models/bert-base-uncased/model.safetensors": "68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3",
+    "models/bert-base-uncased/tokenizer_config.json": "a025160ef0431f1a392f6f050c1310f4c5d9fb6f275932dbccba73c4d214bf10",
+    "models/bert-base-uncased/config.json": "7160e1553ad2ca51d8c1cb066be533db31826e12d173824c1bb0cb1a4f187d20",
+    "data/train.jsonl": "3b18cc93b102d9e1bd8e0e4d3aea61a09c53601200aed38972b0e4591201c010",
+    "data/test.jsonl": "c379c012af6a7e11fa48fca676bda993a3097a97136eac42c8b695b185d5ed1a",
+    "data/validation.jsonl": "2b529147e275412f0150bcd38a14412fda9940c5b945352dd22e7e4a981f9546",
+    "vendor-AnglE/angle_emb/loss.py": "898b02492a3d0dbda2c2702b55f6fa64f5b78e32142c2d49b5a6024103e481fd"
+  }
+}
